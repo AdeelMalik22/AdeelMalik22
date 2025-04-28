@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdeelMalik22
 - 👀 I’m a Passionate Backend Developer
-- 📫 You can reach me at ms16400702gmail.com
+- 📫 You can reach me at ms1640070gmail.com
 
 
 <!---
