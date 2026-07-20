@@ -57,9 +57,9 @@ Backend Developer • Python Developer • AI Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeelMalik22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeelMalik22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelMalik22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelMalik22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -79,8 +79,7 @@ Backend Developer • Python Developer • AI Engineer
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelMalik22&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelMalik22&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -89,7 +88,7 @@ Backend Developer • Python Developer • AI Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdeelMalik22&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdeelMalik22&theme=onedark&no-frame=true&row=2&column=4"/>
 
 </p>
 
