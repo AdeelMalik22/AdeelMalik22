@@ -1,150 +1,149 @@
-<h1 align="center">Hi 👋, I'm Adeel Malik</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer • Python Developer • AI Engineer
-</h3>
+# Hi 👋, I'm Adeel Malik
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Developer;FastAPI+%7C+Django;AI+Engineer;Building+Scalable+Systems" />
-</p>
+### Backend Developer • Python Developer • AI Engineer
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Backend+Developer;FastAPI+%7C+Django+Developer;Building+Scalable+Backend+Systems;AI+Application+Developer;AWS+Cloud+Enthusiast" />
 
-<img src="https://komarev.com/ghpvc/?username=AdeelMalik22&style=for-the-badge&color=blue"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AdeelMalik22&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/AdeelMalik22?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/AdeelMalik22?style=for-the-badge&logo=github"/>
 
-</p>
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 💻 Backend Developer specializing in Python
-- ⚡ Experienced in Django, FastAPI, DRF and Flask
-- 🤖 Building AI applications using LLMs, LangChain, LangGraph and RAG
-- ☁️ Working with AWS Cloud
-- 🏗 Passionate about scalable backend systems
-- 📚 Currently learning System Design, Kubernetes and AI Agents
+I'm a **Backend Developer** passionate about building scalable APIs, cloud applications, and AI-powered software.
+
+- 💻 Backend Developer specializing in **Python**
+- ⚡ Experienced with **Django, FastAPI, DRF & Flask**
+- 🤖 Building AI applications using **LLMs, LangChain, LangGraph & RAG**
+- ☁️ Hands-on experience with **AWS**
+- 🏗️ Interested in scalable architecture & clean code
+- 📚 Currently exploring **AI Agents, Kubernetes & System Design**
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,mongodb,aws,docker,git,github,linux,vscode,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,mongodb,docker,aws,git,github,linux,vscode,html,css,js&perline=8"/>
 
-</p>
-
-### 🤖 AI
-
-- LangChain
-- LangGraph
-- LangSmith
-- OpenAI
-- Gemini
-- RAG
-- MCP
-- Agentic AI
-- Prompt Engineering
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🤖 AI & LLM Technologies
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdeelMalik22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelMalik22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
+- 🧠 Large Language Models (LLMs)
+- 🔗 LangChain
+- 🌐 LangGraph
+- 📚 LangSmith
+- 🤖 OpenAI
+- ✨ Google Gemini
+- 📄 Retrieval-Augmented Generation (RAG)
+- 🔌 MCP (Model Context Protocol)
+- ⚙️ Prompt Engineering
+- 🤝 AI Agents & Tool Calling
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AdeelMalik22&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelMalik22&theme=tokyo-night&hide_border=true&area=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelMalik22&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdeelMalik22&theme=onedark&no-frame=true&row=2&column=4"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛒 E-Commerce Backend | Django + DRF backend with authentication, cart, orders and products |
-| 🤖 AI Todo App | AI-powered task manager |
-| 🎙 AI Voice Assistant | Voice assistant using STT and TTS |
-| 📄 PDF Explainer | Chat with PDFs using LangChain + RAG |
-| 💻 Coding Assistant | AI coding assistant |
-| 📊 Coding Analyst | AI code review and analysis |
-| 🏢 Order Management System | Enterprise order management backend |
-| 🎓 University Management System | Complete academic management system |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 E-Commerce Backend | Complete REST API with authentication, products, orders & payments | Django • DRF |
+| 📄 AI PDF Explainer | Chat with PDFs using Retrieval-Augmented Generation | LangChain • RAG |
+| 🎙 AI Voice Assistant | Real-time speech-to-text & text-to-speech assistant | Python |
+| 🤖 AI Todo App | Intelligent task management with AI suggestions | FastAPI |
+| 💻 Coding Assistant | AI assistant for code generation and debugging | LLM |
+| 📊 Coding Analyst | AI-powered code review & optimization | Python |
+| 🏢 Order Management System | Enterprise backend for order processing | Django |
+| 🎓 University Management System | Academic management platform | Python |
 
 ---
 
 # 🌱 Currently Learning
 
-- Kubernetes
-- System Design
-- Distributed Systems
-- AI Agents
-- MCP (Model Context Protocol)
+- 🚀 Kubernetes
+- 🏛️ System Design
+- ⚙️ Distributed Systems
+- 🤖 AI Agents
+- 🔌 Model Context Protocol (MCP)
+
+---
+
+# 📜 Certifications & Interests
+
+- ☁️ AWS Cloud
+- 🤖 Artificial Intelligence
+- 🐍 Python Backend Development
+- 🔥 REST API Design
+- 📦 Database Design
+- 🏗️ Software Architecture
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/adeel-malik-4b6b14326/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://adeelmalik22.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="mailto:ms1640070@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> Building scalable backend systems and intelligent AI applications.
+<div align="center">
+
+> **"Build software that is simple, scalable, and solves real-world problems."**
+
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<div align="center">
+
+## ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider following me and checking out my repositories.
+
+</div>
